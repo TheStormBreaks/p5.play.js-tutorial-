@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# p5.play.js-tutorial
+
+### First tutorial for ps.play.js boiler plate
